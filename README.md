@@ -826,4 +826,6 @@ Here is a recap of what you've just learned:
 - How to use [query-string](https://www.npmjs.com/package/qs) to build custom client-side queries for better re-use.
 - How to add custom middlewares to your project.
 - How to implement middlewares on an api route.
-# strapi-middleware-populate-example
+
+
+Project Repo: [strapi-middleware-populate-example](https://github.com/PaulBratslavsky/strapi-middleware-populate-example)
